@@ -1,0 +1,22 @@
+{
+  "name": "bird-calls",
+  "version": "1.0.0",
+  "description": "Birds in our backyard",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kristopherk/Bird-calls.git"
+  },
+  "author": "Kristopher Keene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kristopherk/Bird-calls/issues"
+  },
+  "homepage": "https://github.com/Kristopherk/Bird-calls#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
